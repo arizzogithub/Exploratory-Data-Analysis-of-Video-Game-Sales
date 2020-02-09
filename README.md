@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Video-Game-Sales
-Data Science IGaming Project
+Data Science IGaming Project.
 
 To complete my Data Analysis project I will be using a dataset about Video Games Sales from years 1980 to 2020.
 
